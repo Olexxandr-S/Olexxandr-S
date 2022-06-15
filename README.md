@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oleksandr
+- 👋 Hi, I’m Oleksandr
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React
 
