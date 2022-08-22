@@ -1,4 +1,4 @@
-[![MasterHead](Olexxandr_S.png)](https://olexxandrs.github.io/)
+[![MasterHead](Olexxandr_S.png)](https://0lexxandr-s-portfolio.vercel.app/projects)
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
