@@ -27,13 +27,10 @@
    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
 <br>
+<br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olexxandr-s&theme=highcontrast" alt="Olexxandr-S" /></p>
    
-<br>
-   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /></p>
-
-<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" /></p>
