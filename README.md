@@ -1,11 +1,11 @@
 [![MasterHead](Olexxandr_S.png)](https://0lexxandr-s-portfolio.vercel.app/)
 
-</br>
+<br/>
 <h1 align="center">Hi there! 👋 I'm Alex, a Web Developer.</h1>
 
 <p align="center">I'm passionate about creating beautiful, functional and user-friendly websites that help businesses and individuals achieve their goals. With my skills in web development, I strive to build websites that are not only visually appealing, but also perform well and meet the needs of their users.</p>
 
-</br>
+<br/>
 <h2 align="center">Languages and Tools which i use:</h2>
 
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
@@ -26,11 +26,15 @@
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
-<br>
-<br>
+<br/>
+<br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olexxandr-s&theme=highcontrast" alt="Olexxandr-S" /></p>
-   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /></p>
+<p>
+   <a href="https://app.daily.dev/Olexxandr_S"><img align="right" src="https://api.daily.dev/devcards/db6e8e3d3d0845f0bcb09d3815c7a0a4.png?r=pum" width="350" alt="Oleksandr's Dev Card"/></a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" /></p>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=olexxandr-s&theme=highcontrast" alt="Olexxandr-S" /><br/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /><br/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" />
+</p>
+
+<a href="https://www.codewars.com/users/Olexxandr_S"><img align="right" src="https://www.codewars.com/users/Olexxandr_S/badges/large" width="350" alt="Oleksandr_S Codewars Badge"/></a><br/>
