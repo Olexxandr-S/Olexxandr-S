@@ -30,11 +30,11 @@
 <br/>
 
 <p>
-   <a href="https://app.daily.dev/Olexxandr_S"><img align="right" src="https://api.daily.dev/devcards/db6e8e3d3d0845f0bcb09d3815c7a0a4.png?r=pum" width="350" alt="Oleksandr's Dev Card"/></a>
+   <a href="https://app.daily.dev/Olexxandr_S"><img align="right" src="https://api.daily.dev/devcards/db6e8e3d3d0845f0bcb09d3815c7a0a4.png?r=pum" width="320" alt="Oleksandr's Dev Card"/></a>
 
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=olexxandr-s&theme=highcontrast" alt="Olexxandr-S" /><br/>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /><br/>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" />
 </p>
 
-<a href="https://www.codewars.com/users/Olexxandr_S"><img align="right" src="https://www.codewars.com/users/Olexxandr_S/badges/large" width="350" alt="Oleksandr_S Codewars Badge"/></a><br/>
+<a href="https://www.codewars.com/users/Olexxandr_S"><img align="right" src="https://www.codewars.com/users/Olexxandr_S/badges/large" width="400" alt="Oleksandr_S Codewars Badge"/></a><br/>
