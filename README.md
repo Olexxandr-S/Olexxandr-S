@@ -28,11 +28,7 @@
 
 <br>
 <br>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olexxandr-s&theme=highcontrast" alt="Olexxandr-S" /></p>
    
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en" alt="Olexxandr-S" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olexxandr-s&show_icons=true&theme=onedark&title_color=adbac7&text_color=cdd9e5&bg_color=22272e&locale=en&layout=compact" alt="Olexxandr-S" /></p>
 
 <p align="center"><a href="https://www.codewars.com/users/Olexxandr_S"><img src="https://www.codewars.com/users/Olexxandr_S/badges/large" width="400" alt="Oleksandr_S Codewars Badge"/></a><br/></p>
